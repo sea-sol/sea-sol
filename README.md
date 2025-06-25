@@ -10,8 +10,6 @@
 
   
 ## 📫 Contact Me
-
-- Email: [mufasa263129@gmail.com]
 ---
 
 <!--
