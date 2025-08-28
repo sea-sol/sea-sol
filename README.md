@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=am263129&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=am263129&layout=compact&langs_count=8&theme=blue-green"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sea-sol&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sea-sol&layout=compact&langs_count=8&theme=blue-green"/>
